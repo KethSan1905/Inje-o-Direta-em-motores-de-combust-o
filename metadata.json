@@ -1,0 +1,6 @@
+{
+  "name": "GDI Lab - Motores de Injeção Direta de Combustão",
+  "description": "Simulador interativo e guia de engenharia para motores de combustão interna com injeção direta (GDI, TSI, Common Rail e Injeção Dupla).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
